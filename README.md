@@ -32,7 +32,7 @@ https://user-images.githubusercontent.com/61752151/170501601-c3df6424-8a99-4d87-
 - Clone the repository on your local machine with the command below in your terminal, and cd into the **COVID-19-Tracker** folder
 
 ```sh
-https://github.com/Deepak-1373/COVID-19-Tracker.git
+https://github.com/Mauryabhavesh/COVID-19-Tracker.git
 
 cd COVID-19-Tracker
 ```
